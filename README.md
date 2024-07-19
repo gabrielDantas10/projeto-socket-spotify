@@ -8,3 +8,14 @@ no prórpio Spotify e exibilas no console.
 <p>IAN TORREZ</p> 
 <p> JOÃO GABRIEL </p>
 <p> PÉRICLES FEITOZA </p>
+
+<h2>COMO RODAR O PROJETO:</h2>
+<p>
+  <lu>
+    Ao fazer o download ou clonar o projeto, para testa-lo, basta apenas seguir os seguintes passos
+    <li>ter a versão 22 do JDK devidamente instalada na sua máquina</li>
+    <li>Fazer o reload do Maven para instalar todas as dependências na sua máquina</li>
+    <li>Rodar o arquivo src/main/java/spotifycient/main.java pela IDE</li>
+    <li>Informar o ID de uma playlist que queira ver as informações, para buscar IDs basta buscar em um [Cliente Spotify Autenticado](https://open.spotify.com)</li>
+  </lu>
+</p>
