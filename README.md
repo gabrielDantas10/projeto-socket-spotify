@@ -17,5 +17,6 @@ no prórpio Spotify e exibilas no console.
     <li>Fazer o reload do Maven para instalar todas as dependências na sua máquina</li>
     <li>Rodar o arquivo src/main/java/spotifycient/main.java pela IDE</li>
     <li>Informar o ID de uma playlist que queira ver as informações, para buscar IDs basta buscar em um [Cliente Spotify Autenticado](https://open.spotify.com)</li>
+    <li>Exemplo de URL: https://open.spotify.com/playlist/5DqR5bAbk7mTq5jnvJsjel (O ID sempre será esse conjunto de caractéres após "playlist/"</li>
   </lu>
 </p>
